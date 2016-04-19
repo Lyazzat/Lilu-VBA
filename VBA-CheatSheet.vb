@@ -1,6 +1,6 @@
 
-								'Declaring a variables at the top acts a placeholder memory for your variables
-Option Explcit 					'having this statement at the top requires to declare your variables
+					'Declaring a variables at the top acts a placeholder memory for your variables
+Option Explcit 				'having this statement at the top requires to declare your variables
 Dim FinalRow As Integer 		'Dim or Private are similar. The scope of the variables is only within a subroutine
 Public FinalRow2 As Integer 	'This scope will allow to use the variables for every single sub-routine within a module
 
